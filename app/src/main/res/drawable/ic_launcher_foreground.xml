@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Robot Antenna with LED -->
+    <path
+        android:pathData="M54,23 L54,32"
+        android:strokeWidth="3.5"
+        android:strokeColor="#4F8CFF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M54,21m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0"
+        android:fillColor="#32D6FF" />
+
+    <!-- Robot Outer Head/Chassis Shell -->
+    <path
+        android:pathData="M32,34 L76,34 A14,14 0 0,1 90,48 L90,72 A14,14 0 0,1 76,86 L32,86 A14,14 0 0,1 18,72 L18,48 A14,14 0 0,1 32,34 Z"
+        android:fillColor="#151D2A"
+        android:strokeWidth="2.5"
+        android:strokeColor="#4F8CFF" />
+
+    <!-- OLED Screen Surface -->
+    <path
+        android:pathData="M27,42 L81,42 A6,6 0 0,1 87,48 L87,70 A6,6 0 0,1 81,76 L27,76 A6,6 0 0,1 21,70 L21,48 A6,6 0 0,1 27,42 Z"
+        android:fillColor="#070A0F"
+        android:strokeWidth="1.5"
+        android:strokeColor="#273244" />
+
+    <!-- Glowing Cyan OLED Eyes -->
+    <!-- Left Eye -->
+    <path
+        android:pathData="M35,52 A8,8 0 0,1 47,52 L47,63 A6,6 0 0,1 35,63 Z"
+        android:fillColor="#32D6FF" />
+    <!-- Right Eye -->
+    <path
+        android:pathData="M61,52 A8,8 0 0,1 73,52 L73,63 A6,6 0 0,1 61,63 Z"
+        android:fillColor="#32D6FF" />
+
+    <!-- Eye Highlights -->
+    <path
+        android:pathData="M39,54 A2,2 0 1,1 43,54 A2,2 0 1,1 39,54"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M65,54 A2,2 0 1,1 69,54 A2,2 0 1,1 65,54"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Friendly subtle curved mouth line -->
+    <path
+        android:pathData="M48,70 Q54,74 60,70"
+        android:strokeWidth="2"
+        android:strokeColor="#32D6FF"
+        android:strokeLineCap="round" />
+
+    <!-- Side Sensor Ears / Ears -->
+    <path
+        android:pathData="M16,52 L14,52 A3,3 0 0,1 14,64 L16,64 Z"
+        android:fillColor="#4F8CFF" />
+    <path
+        android:pathData="M92,52 L94,52 A3,3 0 0,1 94,64 L92,64 Z"
+        android:fillColor="#4F8CFF" />
+</vector>
+

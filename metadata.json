@@ -1,0 +1,6 @@
+{
+  "name": "AI Companion Robot",
+  "description": "Professional ESP32 AI companion robot digital twin simulator with real-time autonomous navigation, emotion & mood engine, animated OLED face, interactive sensors, virtual SG90 servo, motor dynamics, and multi-file C++ firmware generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
